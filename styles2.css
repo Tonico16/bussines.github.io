@@ -11,6 +11,10 @@ img {
     text-align: center;
 }
 
+.containertext {
+    padding: 25px;
+}
+
 h1 {
     color: white;
     font-family: 'Lexend Deca', sans-serif;
@@ -24,13 +28,15 @@ h1 span {
 p {
     color: hsla(0, 0%, 100%, 0.6);
     font-family: 'Inter', sans-serif;
-    font-size: 15px
+    font-size: 18px
 }
 
 .arriba {
     color: white;
     font-weight: bold;
     font-family: 'Lexend Deca', sans-serif;
+    display: block;
+    margin-top: 15px;
 }
 
 .abajo {
